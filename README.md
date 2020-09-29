@@ -1,4 +1,4 @@
-# [Start Bootstrap - Blog Post](https://startbootstrap.com/templates/blog-post/)
+# [Vero Iarrachtai - Blog Post](https://startbootstrap.com/templates/blog-post/)
 
 [Blog Post](https://startbootstrap.com/templates/blog-post/) is a basic blog post HTML starter template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
